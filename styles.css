@@ -1,0 +1,27 @@
+html{
+    font-family:sans-serif;
+}
+.list{
+    padding: 0px;
+    list-style: none;
+}
+
+.bullet-points{
+    font-weight: bold;
+    }
+.fact{
+    font-style: italic;
+    
+}
+.card{
+    width: 300px;
+    border: 2px solid #727272;
+    box-shadow: 3px 5px rgb(152, 147, 147);
+    padding: 15px;
+}
+
+.main-content{
+    padding: 10px;
+    border: 2px solid #7b7b7b;
+    margin: 0px;
+}
